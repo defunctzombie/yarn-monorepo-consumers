@@ -1,6 +1,0 @@
-{
-  "name": "foo",
-  "dependencies": {
-    "@org/package-a": "github:defunctzombie/yarn-monorepo#workspace=@org/package-a&commit=7e09c006f28253b0a67af7924abe25de06beba1b"
-  }
-}
