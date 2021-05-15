@@ -1,0 +1,6 @@
+{
+  "name": "bar",
+  "dependencies": {
+    "package-b": "github:defunctzombie/yarn-monorepo#workspace=package-b&commit=7e09c006f28253b0a67af7924abe25de06beba1b"
+  }
+}
